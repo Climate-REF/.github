@@ -7,13 +7,13 @@ to assess model fidelity across a wide range of variables.
 
 **Vision for the Rapid Evaluation Framework:** A community owned evaluation framework, built upon, and compatible with, existing community evaluation packages that incorporates an application programming interface (API) for executing metrics generated from community evaluation packages, across the globe. 
 
-**Goal:** The CMIP AR7 Fast Track Rapid Evaluation Framework (AR7 FT REF) will be a complete end to end system providing a systematic and rapid performance assessment of the expected models participating in the CMIP AR7 Fast Track, supporting the next IPCC Assessment Report 7 (AR7) cycle.
+**Goal:** The CMIP7 Assessment Fast Track (AFT) Rapid Evaluation Framework (REF) will be a complete end to end system providing a systematic and rapid performance assessment of the expected models participating in the CMIP7 AFT, supporting the next IPCC Assessment Report 7 (AR7) cycle.
 
 **Outcome:** The REF provides the ability to fully integrate evaluation tools into the CMIP publication workflow, and their diagnostic outputs published alongside the model output on the Earth System Grid Federation (ESGF) through an easily accessible website. 
 
 **Wider community use beyond CMIP:** The REF is designed to be a starting point for the community to develop and build upon, with applications across the WCRP Modelling Multiverse and beyond.
 
-See the [CMIP AR7 Fast-Track REF announcement](https://wcrp-cmip.org/cmip-phases/cmip7/rapid-evaluation-framework/) for more context.
+See the [CMIP7 Assessmnt Fast Track REF announcement](https://wcrp-cmip.org/cmip-phases/cmip7/rapid-evaluation-framework/) for more context.
 
 ### Timelines
 
